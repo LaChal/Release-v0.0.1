@@ -1,0 +1,37 @@
+Verifying archive integrity... All good.
+Uncompressing MCEdit-Unified for Linux.........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+------------------------------------------------------------------------------
+MCEdit-Unified v1.6.0.0-1519574964.08 installer. (Internal version 0.30.0)
+
+Command-line options:
+-d --destination <path>  Destination path to move MCEdit-Unified to.
+                         The path must exists and be writable.
+   --force-build <name>  Force build an internal library. Can be specified
+                         several Times. See documentation for details.
+                         Overrides --no-build. Build <name> even if --no-tests
+                         is given.
+-h --help                Print this text and exit.
+   --no-build            Don't build the internal libraries.
+   --no-checks           Don't check the dependencies.
+                         Implies '--no-deps'.
+   --no-cleanup          Don't clean dowloaded dependencies sources and
+                         utilities.
+   --no-deps             Don't install dependencies.
+   --no-desktop-launcher Don't create a launcher on the desktop.
+   --no-launchers        Don't create the launchers.
+   --no-menu-launcher    Don't create a launcher in the menu.
+   --no-shell-launcher   Don't create a shell command 'mcedit'.
+   --no-tests            Don't perform tests.
+-r --response <file>     Use the specified file to read command-line
+                         arguments.
+                         One argument a line.
+                         The arguments must have the same syntax as on the
+                         command-line (including the hyphens).
+-s --silent              Don't show or ask anything to the user.
+                         To be used with '--yes' or '--response'.
+-t --text                Use text mode.
+-v --verbose [level]     Write more information to the log file.
+                         If [level] is given, it must be a number; it
+                         defaults to '1'.
+-y --yes                 Answer 'yes' to all questions.
+
