@@ -1,0 +1,24 @@
+Makeself version 2.1.5
+ 1) Getting help or info about MCEdit.v1.6.0.0-1519574964.08.Lin.Universal.run :
+  MCEdit.v1.6.0.0-1519574964.08.Lin.Universal.run --help   Print this message
+  MCEdit.v1.6.0.0-1519574964.08.Lin.Universal.run --info   Print embedded info : title, default target directory, embedded script ...
+  MCEdit.v1.6.0.0-1519574964.08.Lin.Universal.run --lsm    Print embedded lsm entry (or no LSM)
+  MCEdit.v1.6.0.0-1519574964.08.Lin.Universal.run --list   Print the list of files in the archive
+  MCEdit.v1.6.0.0-1519574964.08.Lin.Universal.run --check  Checks integrity of the archive
+ 
+ 2) Running MCEdit.v1.6.0.0-1519574964.08.Lin.Universal.run :
+  MCEdit.v1.6.0.0-1519574964.08.Lin.Universal.run [options] [--] [additional arguments to embedded script]
+  with following options (in that order)
+  --confirm             Ask before running embedded script
+  --noexec              Do not run embedded script
+  --keep                Do not erase target directory after running
+			the embedded script
+  --nox11               Do not spawn an xterm
+  --nochown             Do not give the extracted files to the current user
+  --target NewDirectory Extract in NewDirectory
+  --tar arg1 [arg2 ...] Access the contents of the archive through the tar command
+  --                    Following arguments will be passed to the embedded script
+rrent user
+  --target NewDirectory Extract in NewDirectory
+  --tar arg1 [arg2 ...] Access the contents of the archive through the tar command
+  --                    Following arguments will be passed to the embedded script
