@@ -1,6 +1,8 @@
 # MCEdit-Unified-Linux-Preview
 
-This repository hosts Linux development releases of __[MCEdit-Unified](https://github.com/Podshot/MCEdit-Unified-Preview)__.
+<hr>
+
+This repository hosts Linux development releases of __[MCEdit-Unified](https://github.com/Podshot/MCEdit-Unified)__.
 
 You'll also find there the `.so` files for Pocket Edition support.
 These files are also embedded in the installer.
@@ -20,7 +22,7 @@ However, the Linux builds are not triggered on a regular basis.
 * These testing releases are roughly tested and may not work at all.
   * If the installer do not work, or MCEdit do not start, please report **here**.
   * All other issues shall be reported to [the source code repository](https://github.com/Podshot/MCEdit-Unified/issues).
-* [RTFD](https://github.com/LaChal/MCEdit-Unified-Linux-Preview/doc).
+* [RTFD](https://github.com/LaChal/MCEdit-Unified-Linux-Preview). (Also found in the archives below.)
 
 Note that I'm not responsible in case of data loss or corruption!
 
